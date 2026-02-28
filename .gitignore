@@ -1,0 +1,34 @@
+# Unity auto-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.code-workspace
+
+# Unity Burst
+*BurstDebugInformation_DoNotShip*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Android / Gradle
+.gradle/
+local.properties
+

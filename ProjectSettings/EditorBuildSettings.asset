@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ConfigurarIdiomas.unity
+    guid: 14549a5853d22881189d97d4fe524847
+  - enabled: 1
+    path: Assets/Scenes/Juegos.unity
+    guid: 596be2985913c48218f8a1457c43116f
+  - enabled: 1
+    path: Assets/Scenes/Mentira.unity
+    guid: f5105fce3045ade4d927dc4525c448a9
+  - enabled: 1
+    path: Assets/Scenes/Verdad.unity
+    guid: 36cce02b8e3a1da9096cef0b834950d8
+  - enabled: 1
+    path: Assets/Scenes/Escribe.unity
+    guid: c9b361bda9d1390d3a9babddafa2dfac
+  - enabled: 1
+    path: Assets/Scenes/Repasa.unity
+    guid: 8c42fe48a42a3af15807cd8a3a6994eb
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: ce8e47f3205030081ac33f469dfe3d5c, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 4f57e5fface6bd615b07314552c7c370, type: 2}

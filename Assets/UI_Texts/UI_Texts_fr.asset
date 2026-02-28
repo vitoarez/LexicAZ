@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Texts_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: b40bad2a4537ddb0caba15f2bfc9dc49, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 751430541312
+    m_Localized: "CLASSEZ LES LANGUES SELON VOS PR\xC9F\xC9RENCES"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11951094636544
+    m_Localized: "La premi\xE8re position d\xE9termine la langue du menu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12658900213760
+    m_Localized: Confirmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13845565284352
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14772128980992
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15050710458368
+    m_Localized: Commencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659063881179136
+    m_Localized: ANIMAUX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659066775248896
+    m_Localized: COULEURS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659070055194624
+    m_Localized: OBJECTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659097175564288
+    m_Localized: "PARTIES DU \nCORPS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659053215064064
+    m_Localized: "CHOISIS UNE CATEGOR\xCDE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675090467758080
+    m_Localized: "Trouve \nle \nmensonge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675092799791104
+    m_Localized: "Trouve \nle \nv\xE9rit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675095383482368
+    m_Localized: "\xC9cris"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675098080419840
+    m_Localized: "R\xE9vise"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9679758375788544
+    m_Localized: RETOUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10820673630904320
+    m_Localized: "S\xE9rie:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10820676478836736
+    m_Localized: "Meilleure s\xE9rie:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279051956166656
+    m_Localized: "R\xE9ponse:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279053919100928
+    m_Localized: "V\xC9RIFIER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279055735234560
+    m_Localized: "\xC9crivez le mot en fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279398795747328
+    m_Localized: SUIVANT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11286404508164096
+    m_Localized: "Saisissez le mot\u2026"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

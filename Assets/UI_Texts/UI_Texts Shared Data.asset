@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Texts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_Texts
+  m_TableCollectionNameGuidString: b40bad2a4537ddb0caba15f2bfc9dc49
+  m_Entries:
+  - m_Id: 751430541312
+    m_Key: title_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11951094636544
+    m_Key: 1_Puesto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12658900213760
+    m_Key: Aceptar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13845565284352
+    m_Key: "Configuraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14772128980992
+    m_Key: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15050710458368
+    m_Key: Empezar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659053215064064
+    m_Key: TitleText3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659063881179136
+    m_Key: BtnAnimales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659066775248896
+    m_Key: BtnColores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659070055194624
+    m_Key: BtnObjetos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9659097175564288
+    m_Key: BtnPartesCuerpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675090467758080
+    m_Key: Mentira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675092799791104
+    m_Key: Verdad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675095383482368
+    m_Key: Escribe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9675098080419840
+    m_Key: Repasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9679758375788544
+    m_Key: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10820673630904320
+    m_Key: 'Racha:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10820676478836736
+    m_Key: 'Mejor racha:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279051956166656
+    m_Key: 'Respuesta:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279053919100928
+    m_Key: COMPROBAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279055735234560
+    m_Key: Escribe la palabra en (Idioma)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279398795747328
+    m_Key: SIGUIENTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11286404508164096
+    m_Key: Introduce la palabra...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11286407251238912
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6962479372522487836
+  references:
+    version: 2
+    RefIds:
+    - rid: 6962479372522487836
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1762291671396
