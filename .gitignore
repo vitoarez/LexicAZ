@@ -31,4 +31,12 @@ Thumbs.db
 # Android / Gradle
 .gradle/
 local.properties
+# Android keystore (never commit)
+Assets/Keystore/
 
+# TMP examples (not needed in repo)
+Assets/TextMesh Pro/Examples & Extras/
+
+# Junk folders
+Nueva carpeta/
+__MACOSX/
