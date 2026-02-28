@@ -1,5 +1,12 @@
 # LexicAZ
 
+📱 **Descargar APK (Android)**  
+👉 https://github.com/vitoarez/LexicAZ/releases/tag/v1.0
+
+---
+
+# LexicAZ
+
 LexicAZ es una aplicación móvil desarrollada en **Unity** cuyo objetivo es ayudar a aprender vocabulario en varios idiomas de forma simultánea y progresiva mediante distintos minijuegos.
 
 Este proyecto ha sido desarrollado como **Proyecto Final del Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma)**.
