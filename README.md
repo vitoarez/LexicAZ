@@ -75,26 +75,32 @@ Unity-generated folders (Library, Temp…) are excluded via `.gitignore`.
 
 ## 📸 Screenshots
 
-### 🏠 Main Menu
-![Main Menu](screenshots/InicioLexicAZ.png)
-
-### 🎮 Game Modes
-![Game Modes](screenshots/Juegos.png)
-
-### ⚙️ Language & Category Settings
-![Settings](screenshots/CategoriaIdioma.png)
-
-### ❌ Find the Incorrect Translation
-![Mentira](screenshots/MentiraGame.png)
-
-### ✅ Find the Correct Translation
-![Verdad](screenshots/VerdadGame.png)
-
-### ✍️ Write the Word
-![Escribe](screenshots/EscribeGame.png)
-
-### 🔁 Review Mode
-![Repaso](screenshots/RepasaGame.png)
+<table>
+  <tr>
+    <td align="center"><b>Main Menu</b></td>
+    <td align="center"><b>Game Modes</b></td>
+    <td align="center"><b>Settings</b></td>
+    <td align="center"><b>Find Incorrect</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/InicioLexicAZ.png" width="200"/></td>
+    <td><img src="screenshots/Juegos.png" width="200"/></td>
+    <td><img src="screenshots/CategoriaIdioma.png" width="200"/></td>
+    <td><img src="screenshots/MentiraGame.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Find Correct</b></td>
+    <td align="center"><b>Write Word</b></td>
+    <td align="center"><b>Review</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/VerdadGame.png" width="200"/></td>
+    <td><img src="screenshots/EscribeGame.png" width="200"/></td>
+    <td><img src="screenshots/RepasaGame.png" width="200"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
