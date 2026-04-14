@@ -1,10 +1,10 @@
 # 📱 LexicAZ
 
-> Learn vocabulary across 6 languages through interactive mobile minigames.
+ Learn vocabulary across 6 languages through interactive mobile minigames.
 
 ## 📦 Download APK (Android)
 
-👉 https://github.com/vitoarez/LexicAZ/releases/tag/v1.0
+👉 [Download APK](https://github.com/vitoarez/LexicAZ/releases/tag/v1.0)
 
 ---
 
