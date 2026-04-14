@@ -1,6 +1,6 @@
 # 📱 LexicAZ
 
-Mobile app to learn vocabulary across multiple languages through interactive minigames.
+> Learn vocabulary across 6 languages through interactive mobile minigames.
 
 ## 📦 Download APK (Android)
 
