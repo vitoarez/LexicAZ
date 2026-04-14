@@ -73,6 +73,31 @@ Unity-generated folders (Library, Temp…) are excluded via `.gitignore`.
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Main Menu
+![Main Menu](screenshots/InicioLexicAZ.png)
+
+### 🎮 Game Modes
+![Game Modes](screenshots/Juegos.png)
+
+### ⚙️ Language & Category Settings
+![Settings](screenshots/CategoriaIdioma.png)
+
+### ❌ Find the Incorrect Translation
+![Mentira](screenshots/MentiraGame.png)
+
+### ✅ Find the Correct Translation
+![Verdad](screenshots/VerdadGame.png)
+
+### ✍️ Write the Word
+![Escribe](screenshots/EscribeGame.png)
+
+### 🔁 Review Mode
+![Repaso](screenshots/RepasaGame.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Víctor Arroyo**  
